@@ -1,4 +1,6 @@
  public class Binary_search{
+    // this works only for sorted array
+    //binary search is a searching algorithm that works on the principle of divide and conquer  
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
         int target = 3;
